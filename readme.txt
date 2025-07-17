@@ -129,25 +129,8 @@ Everything that's included in the Free edition, plus:
 
 Premium plugins include a full year of free updates and dedicated one-to-one premium email support. This means you get direct access to our support team who will assist you with any questions or issues related to the plugins.
 
-### As featured on:
 
-- [Kinsta](https://kinsta.com/blog/wordpress-activity-log/)
-- [Pagely](https://pagely.com/blog/2015/01/log-wordpress-dashboard-activity-improved-security-auditing/)
-- [Shout Me Loud](https://www.shoutmeloud.com/wordpress-security-audit-log.html)
-- [The Dev Couple](https://thedevcouple.com/wp-security-audit-log-review/)
-- [WPKube](http://www.wpkube.com/improve-wordpress-security-wp-security-audit-log/)
-- [Techwibe](https://www.techwibe.com/wp-security-audit-log-wordpress-plugin/)
-- [Tidy Repo](https://tidyrepo.com/wp-security-audit-log-wordpress-activity-log/)
-- [KitPloit](http://www.kitploit.com/2016/10/wp-security-audit-log-ultimate.html)
-- and many others.
 
-#### MAINTAINED & SUPPORTED BY MELAPRESS
-
-Melapress develops high-quality WordPress management and security plugins such as Melapress Login Security, CAPTCHA 4WP, and WP 2FA.
-
-Browse our list of [WordPress security and administration plugins](https://melapress.com/?utm_source=wp+repo&utm_medium=repo+link&utm_campaign=wordpress_org&utm_content=wsal) to see how our plugins can help you better manage and improve the security and administration of your WordPress websites and users.
-
-== Installing WP Activity Log ==
 
 === Install WP Activity Log from within WordPress ===
 
